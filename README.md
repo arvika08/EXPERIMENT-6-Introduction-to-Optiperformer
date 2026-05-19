@@ -70,12 +70,16 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-<img width="1715" height="1470" alt="image" src="https://github.com/user-attachments/assets/22884d6f-08e7-48e6-9ee2-e91004e4c4d8" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22884d6f-08e7-48e6-9ee2-e91004e4c4d8" width="500">
+</p>
 
 
 ## Graphs
 
-<img width="1211" height="695" alt="image" src="https://github.com/user-attachments/assets/7dae9ba1-4a85-44a8-aba6-8f8256b5047b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7dae9ba1-4a85-44a8-aba6-8f8256b5047b" width="700">
+</p>
 
 
 ---
